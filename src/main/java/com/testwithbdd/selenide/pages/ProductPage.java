@@ -5,6 +5,8 @@ import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import static com.codeborne.selenide.Selenide.$;
+
 public class ProductPage extends AbstractPage {
 
     @FindBy(xpath = "//div[@class='breadcrumb clearfix']")
@@ -61,7 +63,7 @@ public class ProductPage extends AbstractPage {
     /** Click on Add product button */
     public void clickAddBtn() {
         testClass.waitTillElementIsVisible(addToCardBtn);
-        addToCardBtn.click();
+        $(addToCardBtn).click();
         testClass.waitTillElementIsVisible(checkOutPopUp);
     }
 
@@ -72,7 +74,7 @@ public class ProductPage extends AbstractPage {
      */
     public CheckoutPage clickCheckoutBtn() {
         testClass.waitTillElementIsVisible(checkoutBtn);
-        checkoutBtn.click();
+        $(checkoutBtn).click();
         return new CheckoutPage(testClass);
     }
 }

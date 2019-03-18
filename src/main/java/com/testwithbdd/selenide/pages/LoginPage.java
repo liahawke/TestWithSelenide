@@ -6,6 +6,8 @@ import com.testwithbdd.selenide.utils.YamlParser;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import static com.codeborne.selenide.Selenide.$;
+
 public class LoginPage extends AbstractPage {
 
     // Web elements
@@ -32,7 +34,7 @@ public class LoginPage extends AbstractPage {
     public AccountPage fillInputOnLoginPage() {
         loginInput.sendKeys(YamlParser.getYamlData().getEmail());
         passwordInput.sendKeys(YamlParser.getYamlData().getPassword());
-        loginBtn.click();
+        $(loginBtn).click();
         return new AccountPage(testClass);
     }
 }

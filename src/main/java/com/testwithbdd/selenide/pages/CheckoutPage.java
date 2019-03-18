@@ -5,6 +5,8 @@ import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import static com.codeborne.selenide.Selenide.$;
+
 public class CheckoutPage extends AbstractPage {
 
     // Web elements
@@ -66,7 +68,7 @@ public class CheckoutPage extends AbstractPage {
     /** Delete product from the cart */
     public void deleteProduct() {
         testClass.waitTillElementIsVisible(deleteBtn);
-        deleteBtn.click();
+        $(deleteBtn).click();
     }
 
     /** Check title if cart is empty */

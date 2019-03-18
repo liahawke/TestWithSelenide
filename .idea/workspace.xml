@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7e72adb-d3c5-4408-afb1-85b627a74dfb" name="Default Changelist" comment="" />
+    <list default="true" id="c7e72adb-d3c5-4408-afb1-85b627a74dfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/AbstractPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/AbstractPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/CheckoutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/CheckoutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/ProductPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/testwithbdd/selenide/pages/ProductPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -17,7 +30,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,32 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ListingPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-166">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="596">
+              <caret line="53" column="10" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="612">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-863">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="511">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,10 +77,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCard.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ListingPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +97,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/RunTestRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCartSelenide.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="493">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +121,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+            <state relative-caret-position="510">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +148,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,14 +160,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/utils/YamlParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/BaseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AccountPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ListingPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCartSelenide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
@@ -165,12 +178,14 @@
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,8 +272,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson13Selenide-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -335,45 +352,43 @@
     <history-entry file="SignInAndAddToCartSelenide_testOpenSiteAndAddToCart - 2019.03.18 at 22h 52m 46s.xml">
       <configuration name="SignInAndAddToCartSelenide.testOpenSiteAndAddToCart" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SignInAndAddToCartSelenide_testOpenSiteAndAddToCart - 2019.03.19 at 00h 24m 36s.xml">
+      <configuration name="SignInAndAddToCartSelenide.testOpenSiteAndAddToCart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SignInAndAddToCartSelenide_testOpenSiteAndAddToCart - 2019.03.19 at 00h 28m 39s.xml">
+      <configuration name="SignInAndAddToCartSelenide.testOpenSiteAndAddToCart" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32949308" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.58986175" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1313364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32949308" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/RunTestRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/utils/YamlFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -388,17 +403,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/BaseClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="629">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -407,18 +425,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/CheckoutPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="562">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ListingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -427,18 +462,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/ProductPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-863">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="511">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -452,27 +487,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/base/RunTestRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-266">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/pages/AbstractPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="596">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -481,15 +506,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+        <state relative-caret-position="510">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testwithbdd/selenide/tests/SignInAndAddToCartSelenide.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="493">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

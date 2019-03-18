@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import static com.codeborne.selenide.Selenide.$;
+
 public abstract class AbstractPage {
 
     // Web Elements
@@ -42,14 +44,14 @@ public abstract class AbstractPage {
      */
     public LoginPage clickLoginLink() {
         testClass.waitTillElementIsVisible(loginLink);
-        loginLink.click();
+        $(loginLink).click();
         return new LoginPage(testClass);
     }
 
     /** Click on Dresses link */
     public ListingPage clickOnMenuLink() {
         testClass.waitTillElementIsVisible(tshirtsTitle);
-        tshirtsTitle.click();
+        $(tshirtsTitle).click();
         return new ListingPage(testClass);
     }
 }
